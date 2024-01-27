@@ -451,6 +451,10 @@ out on the Avalanche Discord._
   messages, which will remain signable and in state until a refund action is
   issued)
 
+## Author for the project
+
+Aniket Raj
+
 <br>
 <br>
 <br>
